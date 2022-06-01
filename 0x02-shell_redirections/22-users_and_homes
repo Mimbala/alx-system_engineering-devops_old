@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/ppasswd | sort
+ls -l /etc/ppasswd | sort
